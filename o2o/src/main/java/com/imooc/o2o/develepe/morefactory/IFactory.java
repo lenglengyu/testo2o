@@ -15,7 +15,7 @@ public interface IFactory {
 	
 	public  void   delete6(int me);
 
-    public  void   delete7(long  me);
+    public  void   delete7(int   me);
 
 
 
