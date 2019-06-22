@@ -5,4 +5,6 @@ public interface IFactory {
 	 Leifeng CreateFactory();
 
 	  public  void add();
+
+	  public  void  delete();
 }
