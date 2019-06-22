@@ -2,9 +2,9 @@ package com.imooc.o2o.develepe.morefactory;
 
 public interface IFactory {
 
-	 Leifeng CreateFactory();
+	Leifeng CreateFactory();
 
-	  public  void add();
+	public  void add();
 
 	  public  void  delete();
 	 public  void   delete2();
