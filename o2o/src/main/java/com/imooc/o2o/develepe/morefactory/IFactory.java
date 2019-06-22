@@ -7,5 +7,7 @@ public interface IFactory {
 	  public  void add();
 
 	  public  void  delete();
-	 public  void   delete2();
+	  public  void   delete2();
+	
+	 public  void   delete3();
 }
