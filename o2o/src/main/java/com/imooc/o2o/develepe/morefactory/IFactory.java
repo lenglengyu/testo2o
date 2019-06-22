@@ -12,4 +12,6 @@ public interface IFactory {
 	 public  void   delete3();
 	
 	 public  void   delete5();
+	
+	public  void   delete6();
 }
