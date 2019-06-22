@@ -4,7 +4,7 @@ import java.util.Date;
 
 public class Area {
 
-	//id
+	//id  ssssdfasdfssss
 	private Integer id;
 	//名称
 	private String name;
